@@ -27,6 +27,9 @@
     "react/button-has-type": "off",
     "react/prop-types": "off",
     "react/jsx-props-no-spreading": "off",
+    "linebreak-style": ["off", "windows"],
+    "no-param-reassign": "off",
+    "object-curly-newline": "off",
     "@typescript-eslint/no-unused-vars": [
       "error",
       {
